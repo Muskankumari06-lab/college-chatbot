@@ -16,3 +16,6 @@ An AI-based chatbot developed using Python and Streamlit to answer student queri
 
 ```bash
 python -m streamlit run app.py
+## Screenshot
+
+![Chatbot](image.png)
